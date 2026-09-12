@@ -1,5 +1,12 @@
 # Hyvinvointialue Diabetes Risk Project
 
+## Summary
+This project examines whether regional income level and population age structure explain differences in diabetes burden across Finland's 21 hyvinvointialueet (wellbeing services counties), using open data from THL Sotkanet and Statistics Finland (2005–2023).
+
+A logistic regression model classifying regions into high/low diabetes burden from income and % population 65+ achieved **70.2% cross-validated accuracy** (vs. a 64.5% baseline), with both predictors statistically meaningful — higher income sharply lowers the odds of high burden, while an older population raises it. K-means clustering further groups the 21 regions into four risk profiles, highlighting a cluster of mostly Eastern and Northern Finland counties carrying disproportionate burden relative to income and age.
+
+![Diabetes burden by hyvinvointialue, colored by risk cluster](outputs/risk_clusters_bar.png)
+
 ## Business question
 Which wellbeing services counties (hyvinvointialueet) carry a disproportionately high diabetes burden relative to their income level and population age structure — and can that relationship be modeled well enough to flag a "watch list" of regions for closer attention?
 
