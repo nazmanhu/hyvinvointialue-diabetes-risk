@@ -1,0 +1,438 @@
+indicator,region,year,gender,diabetes_rate,absolute value,id,title.fi,title.en
+683,962,2005,total,6.3,2922,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,965,2005,total,6.3,8625,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,972,2005,total,7.0,6731,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,968,2005,total,6.0,6093,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,975,2005,total,5.6,6392,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,969,2005,total,4.3,8095,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,963,2005,total,5.9,5368,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,957,2005,total,6.1,4683,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,958,2005,total,7.1,7572,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,970,2005,total,5.8,13998,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,976,2005,total,5.7,7318,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,964,2005,total,6.6,2260,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,971,2005,total,5.1,4417,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,956,2005,total,3.3,467,956,Ahvenanmaa,Åland
+683,974,2005,total,6.4,8947,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,977,2005,total,5.0,4998,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,960,2005,total,4.4,11925,960,Helsingin kaupunki,City of Helsinki
+683,959,2005,total,6.6,5871,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,978,2005,total,5.2,12231,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,966,2005,total,5.2,4326,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,973,2005,total,6.2,11025,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,967,2005,total,5.8,5880,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,961,2005,total,4.7,2289,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,968,2006,total,6.2,6316,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,972,2006,total,7.1,6857,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,965,2006,total,6.5,9041,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,962,2006,total,6.4,2967,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,958,2006,total,7.3,7792,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,964,2006,total,6.9,2372,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,976,2006,total,6.0,7661,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,969,2006,total,4.5,8624,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,975,2006,total,5.9,6717,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,957,2006,total,6.2,4794,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,970,2006,total,6.0,14491,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,963,2006,total,6.0,5503,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,977,2006,total,5.2,5328,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,959,2006,total,6.7,6024,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,960,2006,total,4.5,12323,960,Helsingin kaupunki,City of Helsinki
+683,971,2006,total,5.3,4609,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,956,2006,total,3.4,491,956,Ahvenanmaa,Åland
+683,974,2006,total,6.6,9278,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,973,2006,total,6.4,11398,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,967,2006,total,6.1,6193,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,961,2006,total,5.0,2436,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,966,2006,total,5.3,4559,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,978,2006,total,5.4,12856,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,961,2007,total,5.2,2603,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,975,2007,total,6.1,7054,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,978,2007,total,5.5,13429,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,957,2007,total,6.4,4895,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,967,2007,total,6.3,6429,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,964,2007,total,7.1,2466,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,956,2007,total,3.7,534,956,Ahvenanmaa,Åland
+683,962,2007,total,6.7,3116,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,974,2007,total,6.9,9704,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,963,2007,total,6.2,5756,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,968,2007,total,6.3,6521,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,969,2007,total,4.6,9082,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,970,2007,total,6.1,15100,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,966,2007,total,5.5,4807,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,958,2007,total,7.5,8125,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,973,2007,total,6.5,11810,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,976,2007,total,6.3,8060,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,965,2007,total,6.8,9433,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,971,2007,total,5.5,4781,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,977,2007,total,5.4,5688,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,960,2007,total,4.6,12784,960,Helsingin kaupunki,City of Helsinki
+683,972,2007,total,7.3,7061,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,959,2007,total,6.9,6196,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,967,2008,total,6.8,6931,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,964,2008,total,7.5,2600,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,961,2008,total,5.6,2847,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,978,2008,total,5.9,14536,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,975,2008,total,6.4,7496,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,957,2008,total,6.6,5093,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,963,2008,total,6.5,6129,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,968,2008,total,6.8,6999,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,956,2008,total,3.9,571,956,Ahvenanmaa,Åland
+683,962,2008,total,7.2,3372,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,974,2008,total,7.4,10511,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,976,2008,total,6.7,8675,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,973,2008,total,7.0,12819,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,958,2008,total,8.1,8803,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,966,2008,total,5.9,5266,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,970,2008,total,6.5,16131,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,969,2008,total,4.9,9865,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,959,2008,total,7.3,6576,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,960,2008,total,4.9,13660,960,Helsingin kaupunki,City of Helsinki
+683,972,2008,total,7.7,7539,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,965,2008,total,7.2,10178,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,971,2008,total,5.8,5133,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,977,2008,total,5.9,6332,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,967,2009,total,7.3,7506,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,971,2009,total,6.2,5543,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,961,2009,total,6.0,3047,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,978,2009,total,6.4,15714,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,964,2009,total,7.7,2707,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,972,2009,total,8.3,8082,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,966,2009,total,6.3,5765,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,959,2009,total,7.8,7054,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,965,2009,total,7.8,10964,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,960,2009,total,5.2,14752,960,Helsingin kaupunki,City of Helsinki
+683,977,2009,total,6.4,6996,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,976,2009,total,7.1,9191,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,958,2009,total,8.9,9622,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,962,2009,total,7.7,3595,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,969,2009,total,5.3,10711,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,970,2009,total,6.9,17276,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,973,2009,total,7.4,13783,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,957,2009,total,7.0,5398,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,963,2009,total,7.0,6657,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,975,2009,total,6.8,7939,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,974,2009,total,8.0,11394,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,956,2009,total,4.0,599,956,Ahvenanmaa,Åland
+683,968,2009,total,7.3,7602,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,959,2010,total,8.4,7554,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,974,2010,total,8.6,12277,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,977,2010,total,6.7,7483,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,956,2010,total,4.2,635,956,Ahvenanmaa,Åland
+683,960,2010,total,5.6,15927,960,Helsingin kaupunki,City of Helsinki
+683,963,2010,total,7.6,7297,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,969,2010,total,5.6,11647,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,966,2010,total,6.8,6300,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,970,2010,total,7.5,18926,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,976,2010,total,7.7,9951,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,964,2010,total,8.3,2909,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,971,2010,total,6.6,5928,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,958,2010,total,9.6,10475,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,968,2010,total,7.9,8212,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,965,2010,total,8.3,11810,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,957,2010,total,7.4,5751,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,972,2010,total,8.9,8673,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,975,2010,total,7.1,8330,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,978,2010,total,6.9,17182,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,961,2010,total,6.6,3384,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,973,2010,total,8.0,14960,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,967,2010,total,7.9,8088,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,962,2010,total,8.5,3945,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,966,2011,total,7.4,6983,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,963,2011,total,8.5,8239,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,969,2011,total,6.3,13184,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,977,2011,total,7.5,8445,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,956,2011,total,4.4,686,956,Ahvenanmaa,Åland
+683,960,2011,total,6.2,17741,960,Helsingin kaupunki,City of Helsinki
+683,959,2011,total,9.3,8292,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,965,2011,total,9.2,13044,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,971,2011,total,7.2,6504,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,964,2011,total,9.0,3172,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,970,2011,total,8.5,21751,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,958,2011,total,10.7,11688,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,976,2011,total,8.3,10729,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,975,2011,total,7.7,9144,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,957,2011,total,8.2,6332,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,978,2011,total,7.8,19588,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,968,2011,total,8.8,9150,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,972,2011,total,9.7,9497,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,974,2011,total,9.5,13628,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,962,2011,total,9.5,4379,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,973,2011,total,8.8,16590,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,961,2011,total,7.2,3692,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,967,2011,total,8.8,9012,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,958,2012,total,11.3,12328,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,973,2012,total,9.3,17667,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,976,2012,total,8.8,11386,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,962,2012,total,10.1,4656,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,965,2012,total,9.7,13854,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,968,2012,total,9.4,9742,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,963,2012,total,9.1,8855,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,975,2012,total,8.1,9692,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,957,2012,total,8.6,6709,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,970,2012,total,9.2,23624,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,969,2012,total,6.7,14381,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,964,2012,total,9.4,3316,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,967,2012,total,9.3,9578,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,971,2012,total,7.6,6875,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,956,2012,total,4.7,729,956,Ahvenanmaa,Åland
+683,974,2012,total,10.1,14391,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,977,2012,total,8.0,9185,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,972,2012,total,10.3,10029,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,959,2012,total,9.7,8664,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,960,2012,total,6.6,19111,960,Helsingin kaupunki,City of Helsinki
+683,966,2012,total,7.9,7546,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,961,2012,total,7.7,3989,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,978,2012,total,8.4,21185,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,962,2013,total,10.6,4864,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,965,2013,total,10.1,14406,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,973,2013,total,9.7,18674,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,958,2013,total,11.9,12952,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,976,2013,total,9.3,12050,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,975,2013,total,8.6,10211,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,957,2013,total,9.1,7055,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,969,2013,total,7.3,15740,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,970,2013,total,9.8,25393,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,968,2013,total,9.9,10231,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,963,2013,total,9.5,9300,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,956,2013,total,4.8,755,956,Ahvenanmaa,Åland
+683,971,2013,total,7.9,7147,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,974,2013,total,10.7,15303,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,964,2013,total,9.7,3434,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,967,2013,total,9.9,10190,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,966,2013,total,8.5,8238,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,961,2013,total,8.3,4356,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,978,2013,total,9.0,22586,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,960,2013,total,7.1,20493,960,Helsingin kaupunki,City of Helsinki
+683,977,2013,total,8.6,9978,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,959,2013,total,10.3,9131,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,972,2013,total,10.9,10552,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,968,2014,total,10.4,10731,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,972,2014,total,11.5,11085,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,975,2014,total,8.9,10669,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,978,2014,total,9.3,23662,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,961,2014,total,8.8,4648,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,957,2014,total,9.6,7411,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,973,2014,total,10.2,19774,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,967,2014,total,10.5,10714,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,956,2014,total,4.8,768,956,Ahvenanmaa,Åland
+683,962,2014,total,11.2,5115,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,974,2014,total,11.2,15936,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,960,2014,total,7.4,21807,960,Helsingin kaupunki,City of Helsinki
+683,959,2014,total,10.8,9514,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,963,2014,total,10.1,9867,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,969,2014,total,7.7,17031,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,966,2014,total,9.1,8911,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,970,2014,total,10.3,26760,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,958,2014,total,12.2,13268,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,964,2014,total,10.0,3540,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,976,2014,total,9.8,12677,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,971,2014,total,8.2,7397,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,977,2014,total,9.1,10734,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,965,2014,total,10.4,14911,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,978,2015,total,9.6,24631,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,957,2015,total,9.9,7682,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,961,2015,total,9.1,4900,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,972,2015,total,11.9,11483,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,975,2015,total,9.5,11420,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,956,2015,total,4.9,791,956,Ahvenanmaa,Åland
+683,974,2015,total,11.5,16426,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,962,2015,total,11.6,5260,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,968,2015,total,10.9,11247,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,973,2015,total,10.4,20462,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,967,2015,total,10.9,11119,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,969,2015,total,8.1,18256,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,970,2015,total,10.7,28096,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,960,2015,total,7.7,22996,960,Helsingin kaupunki,City of Helsinki
+683,966,2015,total,9.5,9522,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,963,2015,total,10.5,10339,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,971,2015,total,8.5,7725,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,959,2015,total,11.2,9838,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,965,2015,total,10.8,15639,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,977,2015,total,9.5,11355,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,964,2015,total,10.2,3619,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,976,2015,total,10.3,13261,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,958,2015,total,12.5,13583,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,967,2016,total,11.3,11571,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,971,2016,total,8.8,8032,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,974,2016,total,11.9,17028,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,959,2016,total,11.6,10125,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,977,2016,total,9.9,12045,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,956,2016,total,5.0,810,956,Ahvenanmaa,Åland
+683,972,2016,total,12.3,11859,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,960,2016,total,8.0,24212,960,Helsingin kaupunki,City of Helsinki
+683,966,2016,total,10.0,10107,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,978,2016,total,9.9,25441,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,973,2016,total,10.8,21344,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,961,2016,total,9.5,5148,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,976,2016,total,10.7,13814,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,958,2016,total,12.7,13846,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,965,2016,total,11.1,16149,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,962,2016,total,12.0,5392,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,968,2016,total,11.4,11721,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,963,2016,total,10.9,10778,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,957,2016,total,10.2,7916,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,975,2016,total,9.7,11750,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,969,2016,total,8.5,19456,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,970,2016,total,11.0,29096,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,964,2016,total,10.3,3699,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,959,2017,total,11.9,10393,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,974,2017,total,12.3,17551,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,960,2017,total,8.2,25103,960,Helsingin kaupunki,City of Helsinki
+683,977,2017,total,10.2,12653,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,956,2017,total,5.2,849,956,Ahvenanmaa,Åland
+683,967,2017,total,11.6,11859,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,971,2017,total,8.9,8200,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,978,2017,total,10.1,26112,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,961,2017,total,9.9,5389,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,973,2017,total,11.1,22187,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,972,2017,total,12.7,12205,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,966,2017,total,10.4,10685,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,965,2017,total,11.4,16559,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,968,2017,total,11.6,11918,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,976,2017,total,10.9,14061,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,962,2017,total,12.1,5431,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,958,2017,total,12.9,14026,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,970,2017,total,11.2,29960,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,969,2017,total,8.9,20512,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,964,2017,total,10.4,3752,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,963,2017,total,11.3,11187,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,957,2017,total,10.6,8199,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,975,2017,total,9.9,11982,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,963,2018,total,11.6,11530,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,966,2018,total,10.8,11269,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,969,2018,total,9.1,21392,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,970,2018,total,11.4,30797,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,973,2018,total,11.3,22842,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,976,2018,total,11.2,14382,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,958,2018,total,13.0,14232,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,971,2018,total,9.2,8464,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,959,2018,total,12.3,10636,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,965,2018,total,11.6,16997,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,977,2018,total,10.5,13190,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,960,2018,total,8.3,25869,960,Helsingin kaupunki,City of Helsinki
+683,957,2018,total,10.8,8325,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,972,2018,total,13.1,12582,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,975,2018,total,10.1,12273,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,961,2018,total,10.3,5658,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,978,2018,total,10.5,27308,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,964,2018,total,10.8,3879,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,967,2018,total,12.0,12248,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,962,2018,total,12.3,5495,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,974,2018,total,12.8,18189,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,956,2018,total,5.4,895,956,Ahvenanmaa,Åland
+683,968,2018,total,11.8,12118,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,966,2019,total,11.0,11687,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,969,2019,total,9.3,22187,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,977,2019,total,10.6,13591,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,974,2019,total,13.3,19004,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,971,2019,total,9.5,8751,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,958,2019,total,13.2,14391,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,976,2019,total,11.3,14510,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,962,2019,total,12.6,5574,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,956,2019,total,5.8,969,956,Ahvenanmaa,Åland
+683,968,2019,total,12.2,12419,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,970,2019,total,11.6,31651,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,975,2019,total,10.4,12721,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,963,2019,total,12.0,11993,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,957,2019,total,11.1,8514,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,972,2019,total,13.4,12776,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,961,2019,total,10.6,5900,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,964,2019,total,11.2,4034,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,967,2019,total,12.4,12608,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,973,2019,total,11.5,23487,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,965,2019,total,11.9,17391,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,960,2019,total,8.5,26706,960,Helsingin kaupunki,City of Helsinki
+683,959,2019,total,12.8,10965,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,978,2019,total,10.8,28422,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,970,2020,total,11.8,32481,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,958,2020,total,13.3,14512,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,966,2020,total,11.1,11851,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,976,2020,total,11.5,14674,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,969,2020,total,9.3,22491,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,973,2020,total,11.7,24013,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,968,2020,total,12.4,12666,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,974,2020,total,13.7,19576,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,963,2020,total,12.3,12376,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,962,2020,total,12.7,5593,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,956,2020,total,6.1,1025,956,Ahvenanmaa,Åland
+683,964,2020,total,11.4,4145,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,978,2020,total,11.1,29244,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,967,2020,total,12.6,12802,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,975,2020,total,10.8,13182,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,957,2020,total,11.1,8551,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,961,2020,total,10.6,5988,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,959,2020,total,13.1,11177,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,960,2020,total,8.5,26975,960,Helsingin kaupunki,City of Helsinki
+683,971,2020,total,9.7,8995,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,972,2020,total,13.8,13139,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,965,2020,total,12.0,17636,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,977,2020,total,10.5,13737,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,962,2021,total,12.6,5543,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,976,2021,total,11.7,14981,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,965,2021,total,12.2,18092,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,968,2021,total,12.6,12930,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,973,2021,total,11.8,24499,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,970,2021,total,12.2,33802,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,975,2021,total,11.1,13638,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,966,2021,total,11.2,12164,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,961,2021,total,10.7,6112,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,967,2021,total,13.0,13160,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,974,2021,total,14.1,20101,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,959,2021,total,13.4,11377,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,956,2021,total,6.4,1089,956,Ahvenanmaa,Åland
+683,960,2021,total,8.6,27306,960,Helsingin kaupunki,City of Helsinki
+683,963,2021,total,12.6,12728,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,978,2021,total,11.2,29967,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,957,2021,total,11.3,8693,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,969,2021,total,9.4,23147,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,972,2021,total,14.0,13358,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,977,2021,total,10.6,14061,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,964,2021,total,11.9,4322,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,958,2021,total,13.5,14738,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,971,2021,total,9.9,9230,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,957,2022,total,11.5,8784,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
+683,962,2022,total,12.7,5530,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,975,2022,total,11.5,14110,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,965,2022,total,12.4,18417,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,972,2022,total,14.3,13623,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,968,2022,total,12.8,13097,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,973,2022,total,12.0,25183,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,967,2022,total,13.2,13275,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,978,2022,total,11.3,30394,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,961,2022,total,10.8,6231,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,977,2022,total,10.7,14378,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,960,2022,total,8.6,27646,960,Helsingin kaupunki,City of Helsinki
+683,974,2022,total,14.4,20604,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,963,2022,total,12.9,13036,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,966,2022,total,11.2,12368,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,971,2022,total,10.1,9443,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,956,2022,total,6.5,1127,956,Ahvenanmaa,Åland
+683,959,2022,total,13.6,11522,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,958,2022,total,13.6,14830,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,970,2022,total,12.4,34821,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,969,2022,total,9.5,23659,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,976,2022,total,11.9,15240,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,964,2022,total,12.1,4436,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,975,2023,total,12.1,14861,975,Päijät-Hämeen hyvinvointialue,Päijät-Häme wellbeing services county
+683,961,2023,total,10.9,6343,961,Itä-Uudenmaan hyvinvointialue,East Uusimaa wellbeing services county
+683,972,2023,total,14.6,13976,972,Pohjois-Karjalan hyvinvointialue,North Karelia wellbeing services county
+683,964,2023,total,12.5,4584,964,Keski-Pohjanmaan hyvinvointialue,Central Ostrobothnia wellbeing services county
+683,967,2023,total,13.4,13414,967,Kymenlaakson hyvinvointialue,Kymenlaakso wellbeing services county
+683,965,2023,total,12.6,18916,965,Keski-Suomen hyvinvointialue,Central Finland wellbeing services county
+683,959,2023,total,13.8,11641,959,Etelä-Savon hyvinvointialue,South Savo wellbeing services county
+683,960,2023,total,8.6,28167,960,Helsingin kaupunki,City of Helsinki
+683,973,2023,total,12.2,25733,973,Pohjois-Pohjanmaan hyvinvointialue,North Ostrobothnia wellbeing services county
+683,966,2023,total,11.4,12705,966,Keski-Uudenmaan hyvinvointialue,Central Uusimaa wellbeing services county
+683,978,2023,total,11.5,31165,978,Varsinais-Suomen hyvinvointialue,Southwest Finland wellbeing services county
+683,969,2023,total,9.5,24162,969,Länsi-Uudenmaan hyvinvointialue,West Uusimaa wellbeing services county
+683,958,2023,total,13.8,15148,958,Etelä-Pohjanmaan hyvinvointialue,South Ostrobothnia wellbeing services county
+683,977,2023,total,10.7,14791,977,Vantaan ja Keravan hyvinvointialue,Vantaa and Kerava wellbeing services county
+683,974,2023,total,14.7,21055,974,Pohjois-Savon hyvinvointialue,North Savo wellbeing services county
+683,962,2023,total,12.9,5591,962,Kainuun hyvinvointialue,Kainuu wellbeing services county
+683,956,2023,total,6.8,1191,956,Ahvenanmaa,Åland
+683,971,2023,total,10.3,9750,971,Pohjanmaan hyvinvointialue,Ostrobothnia wellbeing services county
+683,968,2023,total,13.1,13430,968,Lapin hyvinvointialue,Lapland wellbeing services county
+683,976,2023,total,12.2,15491,976,Satakunnan hyvinvointialue,Satakunta wellbeing services county
+683,963,2023,total,13.1,13298,963,Kanta-Hämeen hyvinvointialue,Kanta-Häme wellbeing services county
+683,970,2023,total,12.5,35582,970,Pirkanmaan hyvinvointialue,Pirkanmaa wellbeing services county
+683,957,2023,total,11.7,8962,957,Etelä-Karjalan hyvinvointialue,South Karelia wellbeing services county
